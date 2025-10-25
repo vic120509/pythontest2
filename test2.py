@@ -1,2 +1,4 @@
- y = "Hello jenkins"
- print(y)
+
+y = "Hello jenkins"
+
+print(y)
